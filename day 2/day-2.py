@@ -1,5 +1,3 @@
-print("hello")
-# file = open("../day 1/day1-1 input.txt")
 file = open("day-2-input.txt")
 contents = file.read().splitlines()
 num_of_passwords = len(contents)
